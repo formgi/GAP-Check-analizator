@@ -8,8 +8,11 @@ Metro Cash and Carry Ukraine, 2015 author: Michael Belyansky e-mail: formgi@gmai
 
 GAP-Check analyzer developed in Python v. 3.4 https://www.python.org/
 
-Used components and resources: PyQt GPL v4.11.2 for Python v3.4 (x32) www.riverbankcomputing.com/ XlsxWriter is module for import to XLSX file format: https://xlsxwriter.readthedocs.org/ Compile with cx_Freeze module: http://cx-freeze.readthedocs.org/ Silk icon set 1.3 by Mark James:
-http://www.famfamfam.com/lab/icons/silk/
+Used components and resources:
+PyQt GPL v4.11.2 for Python v3.4 (x32) www.riverbankcomputing.com/
+XlsxWriter is module for import to XLSX file format: https://xlsxwriter.readthedocs.org/
+Compile with cx_Freeze module: http://cx-freeze.readthedocs.org/
+Silk icon set 1.3 by Mark James: http://www.famfamfam.com/lab/icons/silk/
 
 Please DONATE "GAP-Check analyzer" with PayPal: formgi@gmail.com
 
