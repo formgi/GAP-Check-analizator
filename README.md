@@ -1,4 +1,4 @@
-# GAP-Check-analizator
+# GAP-Check-analizer
 
 GAP-Check analyzer
 
